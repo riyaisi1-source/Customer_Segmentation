@@ -5,6 +5,7 @@ This repository walks through the Instacart Market Basket Analysis problem using
 The goal is to understand and predict what a customer is likely to order next, based on their past purchases and shopping habits.
 
 📁 Notebooks
+
 Data Exploration
 Digs into and visualizes the raw data.
 Looks at how often products are bought, how reorder patterns behave, and how ordering shifts over time.
@@ -14,6 +15,7 @@ Applies K-Means Clustering to group users into segments based on what they tend 
 Association Rule Mining
 Applies the Apriori algorithm to uncover association rules between products.
 Surfaces frequently co-purchased items and product combinations.
+
 📊 About the Dataset
 
 For every user, the data includes:
