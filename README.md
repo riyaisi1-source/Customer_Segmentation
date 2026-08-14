@@ -6,7 +6,7 @@ The goal is to understand and predict what a customer is likely to order next, b
 
 ## 📁 Notebooks
 
-1. **Data Exploration**
+1. **Data Visualisation**
    - Digs into and visualizes the raw data.
    - Looks at how often products are bought, how reorder patterns behave, and how ordering shifts over time.
 
